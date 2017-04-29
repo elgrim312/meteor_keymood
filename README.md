@@ -26,7 +26,7 @@ Url du projet [http://keymood.herokuapp.com] (http://keymood.herokuapp.com)
 ----------------------------
 1. ```$ npm install```  
 2. ```$ npm start```  
-3. [http://localhost:3001/] (http://localhost:3001/) :feelsgood:  
+3. [http://localhost:3002/] (http://localhost:3002/) :feelsgood:
 
 ### La liste des Dépendances
 ---------------------------------
